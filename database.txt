@@ -1,0 +1,7 @@
+===== Rock Paper Scissors Database =====
+Player: ali | PlayerChoice: Rock | ComputerChoice: Scissors | Result: Win
+Player: ali | PlayerChoice: Paper | ComputerChoice: Paper | Result: Draw
+Player: ali | PlayerChoice: Scissors | ComputerChoice: Rock | Result: Lose
+Player: ali | PlayerChoice: Scissors | ComputerChoice: Scissors | Result: Draw
+Player: ali | PlayerChoice: Scissors | ComputerChoice: Paper | Result: Win
+Player: ali | PlayerChoice: Paper | ComputerChoice: Rock | Result: Win
